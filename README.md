@@ -4,7 +4,7 @@ A Power BI report that analyses delivery performance, profitability and discount
 
 > **Headline finding:** only **42.71%** of valid orders arrived on time, and the gap between shipping modes is far larger than any other split in the data. On-time rates were **0.00%** for First Class, **20.17%** for Second Class, **52.07%** for Same Day and **60.23%** for Standard Class.
 
-![Executive Overview](images/executive.png)
+![Executive Overview](images/executive.png) 
 
 ---
 
